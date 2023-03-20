@@ -1,0 +1,54 @@
+{
+  "city": [
+    {
+      "id": 1,
+      "city": "rajkot"
+    },
+    {
+      "city": "rajkot",
+      "id": 2
+    },
+    {
+      "city": "rajkot",
+      "id": 3
+    },
+    {
+      "city": "junagadh",
+      "id": 4
+    },
+    {
+      "city": "junagadh",
+      "id": 5
+    },
+    {
+      "city": "ahmedabad",
+      "id": 6
+    },
+    {
+      "city": "Surat",
+      "id": 7
+    },
+    {
+      "city": "surat",
+      "id": 8
+    },
+    {
+      "city": "",
+      "id": 9
+    },
+    {
+      "city": "rtrtt",
+      "id": 10
+    }
+  ],
+  "details": [
+    {
+      "name": "Chintan Rabadiya",
+      "mobile": "07621941051",
+      "salary": "35555",
+      "profile": "C:\\fakepath\\wallpaperflare.com_wallpaper.jpg",
+      "city": "",
+      "id": 4
+    }
+  ]
+}
